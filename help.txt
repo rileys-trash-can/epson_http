@@ -1,0 +1,10 @@
+Usage:
+	PUT /print to print
+		curl -X PUT -T <file png/jpeg> <host>/print
+	PUT /text to print
+		curl -X PUT -T <file txt/plain> <host>/text
+	GET /cut to cut paper feed
+		curl <host>/cut
+thats it.
+
+epson_print ®2023 riley@e926.de GPLv3 see LICENSE
