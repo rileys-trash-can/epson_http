@@ -1,4 +1,4 @@
-# epson_print
+# epson_http
 
 a simple http rest api for interacting with epson / ESC/P receipt printers
 see help.txt for http usage
